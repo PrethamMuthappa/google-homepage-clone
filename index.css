@@ -1,0 +1,227 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+
+.main_div
+{
+    display: flex;
+    /* border is temp */
+    /* border: 2px solid black; */
+    height: 700px;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    
+
+    
+}
+
+#pic
+{
+    height: 100px;
+    position: absolute;
+    top:25%
+
+    
+}
+
+#Gmail
+{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 4%;
+    right: 18%;
+}
+
+#button
+{
+    position: absolute;
+    border: 2px solid 
+    #1A73E8;
+    background-color: 
+    #1A73E8;
+    font-size: 14px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    line-height: 23px;
+    
+
+    text-decoration: none;
+    width: 80px;
+    height: 27px;
+   
+    border-radius:5px;
+    top: 3%;
+    right: 2%;
+}
+
+
+#image
+{
+    position: absolute;
+
+    top: 3.77%;
+    right: 12.5%;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+#input
+{
+    position: absolute;
+    top: 44%;
+    left: 486px;
+    width: 36%;
+    border: 1px solid rgb(196, 187, 187);
+    border-radius: 20px;
+    height: 39px;
+}
+
+#mag
+{
+    position: absolute;
+    top: 45.666%;
+    left: 33%;
+    color: #9aa0a6;
+    height: 21px;
+}
+
+#mic
+{
+    height: 23px;
+    position: absolute;
+    left: 66%;
+    top: 45.2%;
+}
+
+#dots
+{
+    position: absolute;
+    top: 3%;
+    right: 9%;
+  height: 29px;
+}
+
+#gsearch
+{
+    position: absolute;
+    top: 54.5%;
+    left: 39.8%;
+    text-decoration: none;
+    /* border: #9aa0a6 1px solid; */
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lucky
+{
+    position: absolute;
+    top: 54.5%;
+    left: 52.8%;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#offered{
+    position: absolute;
+    top: 60%;
+    left: 31.8%;
+    text-decoration: none;
+    color:rgb(106, 93, 93);
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+#hindi
+{
+    position: absolute;
+    top: 62.5%;
+    left: 41%;
+    
+    font-size: 12px;
+    text-decoration: none;
+
+
+}
+
+#bangla
+{
+    position: absolute;
+    top: 62.4%;
+    left: 43.6%;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#telugu
+{
+    position: absolute;
+    top: 62.4%;
+    left: 46.4%;
+    text-decoration: none;
+    font-size: 12px;
+
+}
+
+#marathi
+{
+    position: absolute;
+    top: 62.4%;
+    left: 49.55%;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#tamil
+{
+    position: absolute;
+    top: 62.4%;
+    left: 52.4%;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#unk
+{
+    
+    position: absolute;
+    top: 62.4%;
+    left: 55.4%;
+    text-decoration: none;
+    font-size: 12px;
+}
+#kannada
+{
+    position: absolute;
+    top: 62.4%;
+    left: 58.7%;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#unk2
+{
+    position: absolute;
+    top: 62.4%;
+    left:61.7%;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#unk3
+{
+    position: absolute;
+    top: 62.4%;
+    left:66.1%;
+    text-decoration: none;
+    font-size: 12px;
+}
